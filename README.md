@@ -1,10 +1,27 @@
-<h1>Reversing Strings Inside Parentheses Example</h1>
+<h1>Reversing Strings Inside Parentheses</h1>
 <p>This algorithm should reverse the string inside the parnetheses</p>
 
-Example:
+<strong>Example</strong>:
 
-foobarbaz - foobarbaz
-
-foo(bar)baz - foorabbaz
-
-foo(bar(baz))blim - foobazrabblim
+<table>
+  <thead>
+    <tr>
+      <th>Phrase</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>foobarbaz</td>
+      <td>foobarbaz</td>
+    </tr>
+    <tr>
+      <td>foo(bar)baz</td>
+      <td>foorabbaz</td>
+    </tr>
+    <tr>
+      <td>foo(bar(baz))blim</td>
+      <td>foobazrabblim</td>
+    </tr>
+  </tbody>
+</table>
