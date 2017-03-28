@@ -4,14 +4,8 @@ This algorithm should reverse the string inside the parnetheses
 
 Example:
 
-foobarbaz
+foobarbaz - foobarbaz
 
-foobarbaz
+foo(bar)baz - foorabbaz
 
-foo(bar)baz
-
-foorabbaz
-
-foo(bar(baz))blim
-
-foobazrabblim
+foo(bar(baz))blim - foobazrabblim
