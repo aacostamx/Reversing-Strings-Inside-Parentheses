@@ -1,6 +1,5 @@
-# ReversingStringsInsideParentheses
 <h1>Reversing Strings Inside Parentheses Example</h1>
-- This algorithm should reverse the string inside the parnetheses
+<p>This algorithm should reverse the string inside the parnetheses</p>
 
 Example:
 
