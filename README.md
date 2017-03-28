@@ -1,14 +1,20 @@
 # ReversingStringsInsideParentheses
 Reversing Strings Inside Parentheses Example
-- This algorithm should reverse the string inside the parnetheses
+This algorithm should reverse the string inside the parnetheses
 
 Example:
 
-foobarbaz
-foobarbaz
+input
+- foobarbaz
+output
+- foobarbaz
 
-foo(bar)baz
-foorabbaz
+input
+- foo(bar)baz
+output
+- foorabbaz
 
-foo(bar(baz))blim
-foobazrabblim
+input
+- foo(bar(baz))blim
+output
+- foobazrabblim
